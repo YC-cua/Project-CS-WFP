@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+
+    <h1> Gun Violence </h1>
+    
+    <br>
+    <p> Gun Violence is defined as violence using a firearm it includes murder, assault, suicide and other types of harm which have  all been rising in recent years. Research from the Pew Research Center in 2021 saw record numbers of both gun homicides and gun suicide</p>
+    
+    <img src="Pew.jpg" alt="Image description" />
+    
+<br>
+    <a href="index.html">Index</a>
+    <a href="Culture.html">Gun Culture</a>
+    <a href="Lobby.html">Gun Lobbying </a>
+    
+  </body>
+</html>
