@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    
+    <h1> Gun Lobby </h1>
+    
+    <p> Gun lobbying in America has been a problem disrupting adequete gun laws and moderation or banning in America for years. These gun lobbies through donation from rich men and companies betray the will of the American people by using their immense wealth and influence to convice politicans to keep guns recklessly undercontrolled</p>  
+    
+    <img src="Lobby.jpeg" alt="Image description" />
+    
+    <br>
+    
+    <a href="Violence.html">Gun Violence</a>
+    <a href="Culture.html">Gun Culture</a>
+    <a href="index.html">Index </a>
+    
+  </body>
+</html>
