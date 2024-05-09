@@ -1,0 +1,48 @@
+body {
+  background: grey
+}
+
+img {
+  float: center;
+  width: 475px;
+  height: 300x;
+  margin: 5px;
+  border-color: crimson;
+  border-style: dashed;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+p {
+  color: black;
+  font-family: fantasy
+    font-size: 18px;
+  letter-spacing: 1.5px;
+  color: black;
+
+}
+h1 {
+  font-weight: bold;
+  text-align: left;
+  text-shadow: -2px 2px black;
+  letter-spacing: 3px;
+  color: darkred;
+  text-align: center
+
+}
+h3 {
+  text-align: left;
+  color: red;
+  letter-spacing: 2px;
+  text-decoration: underline;
+}
+
+a {
+  border-style:ridge;
+  border-color:darkred;
+  background-color:black;
+  color:#fdfdfd;
+  font-family: fantasy;
+  letter-spacing: 1.5px;
+  padding: 5px;
